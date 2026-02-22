@@ -59,8 +59,4 @@ Even though this is a small project, it demonstrates turning messy web content i
 
 ---
 
-## How to run
 
-### 1) Install dependencies
-```bash
-pip install -r requirements.txt
